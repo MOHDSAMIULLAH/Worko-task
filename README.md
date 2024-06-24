@@ -25,11 +25,6 @@ npm install
   npm start
   ```
 
-  ### Running Tests
-  ```bash
-  npm test
-  ```
-
   ### API Endpoints
   ```bash
   - `GET /api/worko/user` - List all users
