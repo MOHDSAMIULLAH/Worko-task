@@ -8,8 +8,8 @@
 
 ### Installation
 ```bash
-git clone https://github.com/your-repo/worko-api.git
-cd worko-api
+git clone https://github.com/MOHDSAMIULLAH/Worko-task.git
+cd worko-task
 npm install
 ```
 
@@ -143,10 +143,7 @@ Click `Send`.
 
 Click `Send`.
 
-By following these steps, you can properly format and execute requests to your API using Postman. Make sure to replace `USER_ID` with the actual user ID for the GET, PUT, PATCH, and DELETE requests.
 
-
-Here's a detailed breakdown of the steps to accomplish the tasks outlined for setting up a backend API with Node.js and MVC architecture:
 
 
 
